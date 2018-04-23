@@ -1,0 +1,12 @@
+$color: pink;
+
+ body {
+     color:$color;
+     background-color: cyan;
+ }
+
+ @media  (max-width: 600px) {
+    body {
+        background-color: yellow;
+    }
+ }

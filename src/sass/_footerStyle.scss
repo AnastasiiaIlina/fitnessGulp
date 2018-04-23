@@ -1,0 +1,11 @@
+$font: 10px;
+
+ body {
+     font-size:$font;
+ }
+
+ @media  (max-width: 600px) {
+    body {
+        font-size: 40px;
+    }
+ }

@@ -1,0 +1,33 @@
+{
+  "name": "fitnessgulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^4.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.7",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-merge-media-queries": "^0.2.1",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.1"
+  },
+  "scripts": {
+    "start": "gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiiaIlina/fitnessGulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiiaIlina/fitnessGulp/issues"
+  },
+  "homepage": "https://github.com/AnastasiiaIlina/fitnessGulp#readme"
+}
